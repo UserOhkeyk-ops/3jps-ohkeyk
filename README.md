@@ -12,14 +12,15 @@ A web-based digital storefront and ordering system for 3JP's Ohkeyk, developed b
 * **Deployment**: GitHub / GitHub Pages
 
 ## Project Team
-* **Project Manager**: John Lester Capiral[cite: 2]
-* **UI and UX Designer**: Joana Marie Miranda[cite: 2]
-* **Researcher**: Georgiana Casiñares[cite: 2]
-* **Developer**: John Paul Cunanan[cite: 2]
-* **Documentation**: James Patrick Vergel De Dios[cite: 2]
-* **Q&A and Tester**: Zander Calma[cite: 2]
+* **Project Manager**: John Lester Capiral
+* **UI and UX Designer**: Joana Marie Miranda
+* **Researcher**: Georgiana Casiñares
+* **Developer**: John Paul Cunanan
+* **Documentation**: James Patrick Vergel De Dios
+* **Q&A and Tester**: Zander Calma
 
 ## Setup and Local Development
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/UserOhkeyk-ops/3jps-ohkeyk.git](https://github.com/UserOhkeyk-ops/3jps-ohkeyk.git)
+ https://userohkeyk-ops.github.io/3jps-ohkeyk/contact.html
+ 
