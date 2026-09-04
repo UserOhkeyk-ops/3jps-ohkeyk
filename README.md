@@ -3,7 +3,7 @@
 A web-based digital storefront and ordering system for 3JP's Ohkeyk, developed by group **Byte-Me**.
 
 ## Project Description
-3JP's Ohkeyk is a home-based bakery established in 2015 by owner Jannet Vergel De Dios, specializing in custom cakes, cupcakes, and freshly baked pastries[cite: 2]. This static web application serves as a digital storefront and showcase to help customers easily browse products, view accurate prices, and send order inquiries[cite: 2].
+3JP's Ohkeyk is a home-based bakery established in 2015 by owner Jannet Vergel De Dios, specializing in custom cakes, cupcakes, and freshly baked pastries. This static web application serves as a digital storefront and showcase to help customers easily browse products, view accurate prices, and send order inquiries.
 
 ## Tech Stack
 * **Design**: Figma
@@ -22,5 +22,5 @@ A web-based digital storefront and ordering system for 3JP's Ohkeyk, developed b
 ## Setup and Local Development
 1. Clone the repository:
    ```bash
- https://userohkeyk-ops.github.io/3jps-ohkeyk/contact.html
+   git clone [https://github.com/UserOhkeyk-ops/3jps-ohkeyk.git](https://github.com/UserOhkeyk-ops/3jps-ohkeyk.git)
  
